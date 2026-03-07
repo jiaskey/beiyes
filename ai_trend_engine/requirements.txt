@@ -1,0 +1,6 @@
+feedparser>=6.0.11
+newspaper3k>=0.2.8
+keybert>=0.8.5
+openai>=1.40.0
+psycopg2-binary>=2.9.9
+PyYAML>=6.0.2
